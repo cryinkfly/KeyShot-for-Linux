@@ -6,6 +6,8 @@ This is a project, where I give you a way to use KeyShot on Linux!
 
 # STILL IN PROGRESS!!!
 
+Wine must be configured with Windows 8.1! (Command: winecfg)
+
 ---
 
 ## Screenshots
