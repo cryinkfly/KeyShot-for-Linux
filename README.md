@@ -17,7 +17,7 @@ Wine must be configured with Windows 8.1! (Command: winecfg)
 </div>
 <div>
 <img src="https://github.com/cryinkfly/KeyShot-for-Linux/blob/main/files/images/%232-demo-car.png" width="300px" height="200px">
-<img src="https://github.com/cryinkfly/KeyShot-for-Linux/blob/main/files/images/%233-demo-car.png.png" width="300px" height="200px">
+<img src="https://github.com/cryinkfly/KeyShot-for-Linux/blob/main/files/images/%233-demo-car.png" width="300px" height="200px">
 </div>
 <div>
 <img src="https://github.com/cryinkfly/KeyShot-for-Linux/blob/main/files/images/demo-realcloth-rendern.png" width="300px" height="200px">
